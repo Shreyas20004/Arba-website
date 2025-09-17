@@ -36,7 +36,7 @@ export default function Navbar() {
               <ul className="flex space-x-6 text-gray-700">
                 <li>
                   <Link 
-                    to="/" 
+                    to="/home" 
                     className="hover:text-blue-600 transition-all duration-300 px-3 py-2 rounded-lg hover:bg-blue-50 hover:shadow-md hover:shadow-blue-100"
                   >
                     Home

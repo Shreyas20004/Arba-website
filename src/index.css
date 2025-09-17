@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-arba-green: oklch(0.72 0.15 142);
+  --color-arba-darkgreen: oklch(0.45 0.14 142);
+  --color-arba-blue: oklch(0.65 0.15 259);
+  --color-arba-lightblue: oklch(0.78 0.09 230);
+}
